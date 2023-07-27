@@ -46,3 +46,6 @@
 点击下面的链接，登陆 github，并按提示领取作业  
 <https://classroom.github.com/a/soB_qx8D>
 
+**Rustlings 排行榜**  
+<https://cicvedu.github.io/rust-rustlings-ranking/>
+
