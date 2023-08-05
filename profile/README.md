@@ -33,17 +33,20 @@
 * 第三关: Rust For Linux 设备驱动开发
 * 训练营结束：项目作业PK
 
-![image](https://github.com/cicvedu/cicvedu.github.io/assets/1249369/0ee2e016-e9a2-4063-b96a-c21039142b7d)
+![image](https://github.com/cicvedu/.github/assets/1249369/c03ff09e-0c85-424f-a07f-63d447313e71)
 
 上课时间：2023.8.7-9.1 共12次课，每周一三五晚上8点开始
 
 #### 参加培训报名
 参加培训课程，请用手机号登录报名：  
-<https://cicvedu.com/course/108>
+<https://cicvedu.com/course/101>
 
 ### 编程作业领取入口
-#### 第一关 Rustlings（共100道编程练习题）   
-点击下面的链接，登陆 github，并按提示领取作业  
+#### 第一关 Rustlings   
+Rust 编程语言自学请参考官网的教程  
+<https://doc.rust-lang.org/book/>
+
+点击下面的链接，登陆 github，并按提示领取作业（共100道编程练习题）  
 <https://classroom.github.com/a/soB_qx8D>
 
 **Rustlings 排行榜**  
