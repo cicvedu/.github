@@ -42,7 +42,19 @@
 <https://cicvedu.com/course/108>
 
 ### 编程作业领取入口
-#### 第一关 Rustlings（共100道编程练习题）   
+#### 第一关
+* Rustlings（共100道编程练习题）  
 点击下面的链接，登陆 github，并按提示领取作业  
 <https://classroom.github.com/a/soB_qx8D>
+
+* Rustlings 排行榜  
+<https://cicvedu.github.io/rust-rustlings-ranking>
+
+#### 第二关
+* ArceOS（共5道大作业）  
+点击下面的链接，登陆 github，并按提示领取作业  
+<https://classroom.github.com/a/MzutBtUL>
+
+* ArceOS 排行榜  
+<https://cicvedu.github.io/rust-os-ranking>
 
