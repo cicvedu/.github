@@ -23,7 +23,8 @@
 初阶训练营历时约4周，需每周投入8~16小时学习及实践时间。通过全面系统的课程培训和项目实战，让学员初步理解自动驾驶知识，并掌握Rust编程、驱动开发相关技能。优秀学员更有机会入职国家智能网联汽车创新中心及其合作单位。
 
 #### 入营申请
-申请入营请联系李明老师，微信号 **limingth**
+申请入营请填写申请表：  
+<https://www.wjx.cn/vm/h2xIMF1.aspx>
 
 ### 训练营课程表
 《自动驾驶OS开发训练营：初阶》  
@@ -32,22 +33,28 @@
 * 第三关: Rust For Linux 设备驱动开发
 * 训练营结束：项目作业PK
 
-![image](https://github.com/cicvedu/.github/assets/1249369/c03ff09e-0c85-424f-a07f-63d447313e71)
+![image](https://github.com/cicvedu/cicvedu.github.io/assets/1249369/0ee2e016-e9a2-4063-b96a-c21039142b7d)
 
 上课时间：2023.8.7-9.1 共12次课，每周一三五晚上8点开始
 
 #### 参加培训报名
 参加培训课程，请用手机号登录报名：  
-<https://cicvedu.com/course/101>
+<https://cicvedu.com/course/108>
 
 ### 编程作业领取入口
-#### 第一关 Rustlings   
-Rust 编程语言自学请参考官网的教程  
-<https://doc.rust-lang.org/book/>
-
-点击下面的链接，登陆 github，并按提示领取作业（共100道编程练习题）  
+#### 第一关
+* Rustlings（共100道编程练习题）  
+点击下面的链接，登陆 github，并按提示领取作业  
 <https://classroom.github.com/a/soB_qx8D>
 
-**Rustlings 排行榜**  
-<https://cicvedu.github.io/rust-rustlings-ranking/>
+* Rustlings 排行榜  
+<https://cicvedu.github.io/rust-rustlings-ranking>
+
+#### 第二关
+* ArceOS（共5道大作业）  
+点击下面的链接，登陆 github，并按提示领取作业  
+<https://classroom.github.com/a/MzutBtUL>
+
+* ArceOS 排行榜  
+<https://cicvedu.github.io/rust-os-ranking>
 
