@@ -27,7 +27,11 @@ https://github.com/cicvedu/1st-training-camp/blob/main/README.md
 
 #### 入营申请
 申请入营请填写申请表：  
-<https://www.wjx.cn/vm/h2xIMF1.aspx>
+<https://www.wjx.cn/vm/Yt8Bz8O.aspx#>
+
+#### 笔试题目链接
+线上笔试题目：
+<https://ks.wjx.top/vm/wLHjwhD.aspx#>
 
 ### 训练营课程表
 《自动驾驶OS开发训练营：初阶（第二期）》  
