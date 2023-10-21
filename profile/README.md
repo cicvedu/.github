@@ -38,7 +38,7 @@ https://github.com/cicvedu/1st-training-camp/blob/main/README.md
 * 第一关: Rust 编程语言精讲
 * 第二关: Rust For Linux 设备驱动开发
 
-![image](https://github.com/cicvedu/cicvedu.github.io/assets/1249369/0ee2e016-e9a2-4063-b96a-c21039142b7d)
+![image](./stage_2_time_list.png)
 
 上课时间：2023.10.23-11.19 共12次课，每周一三五晚上8点开始，具体见课表
 
