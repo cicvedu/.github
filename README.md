@@ -33,7 +33,7 @@
 * 第三关: Rust For Linux 设备驱动开发
 * 训练营结束：项目作业PK
 
-![image](https://github.com/cicvedu/cicvedu.github.io/assets/1249369/0ee2e016-e9a2-4063-b96a-c21039142b7d)
+![image](./profile/stage_2_time_list.png)
 
 上课时间：2023.8.7-9.1 共12次课，每周一三五晚上8点开始
 
