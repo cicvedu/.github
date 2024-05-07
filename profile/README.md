@@ -9,51 +9,43 @@ https://github.com/cicvedu/.github/blob/main/profile/README.md
 
 ### 第3期入营流程
 ```
-报名时间：9/21~10/14
+报名时间：3/01~3/09
 
-笔试通知：10/15
+开营仪式：3/10 晚
 
-线上笔试：10/16~10/18
+课程培训：3/11~4/10（共计4周）
 
-入营通知：10/20
-
-开营仪式：10/21 晚
-
-课程培训：10/23~11/19（共计4周）
-
-结营时间：11/24
+结营时间：4/12
 ```
 
 ### 训练营申请表
-初阶训练营第二期历时约4周，需每周投入8~16小时学习及实践时间。通过全面系统的课程培训和项目实战，让学员初步理解自动驾驶知识，并掌握Rust编程、驱动开发相关技能。优秀学员更有机会入职国家智能网联汽车创新中心及其合作单位。
+初阶训练营第三期历时约4周，需每周投入8~16小时学习及实践时间。通过全面系统的课程培训和项目实战，让学员初步理解自动驾驶知识，并掌握Rust编程、驱动开发相关技能。优秀学员更有机会入职国家智能网联汽车创新中心及其合作单位。
 
 #### 入营申请
 申请入营请填写申请表：  
-<https://www.wjx.cn/vm/Yt8Bz8O.aspx#>
-
-#### 笔试题目链接
-线上笔试题目：
-<https://ks.wjx.top/vm/wLHjwhD.aspx#>
+<https://opencamp.cn/cicvedu/camp/20240310>
 
 ### 训练营课程表
-《自动驾驶OS开发训练营：初阶（第二期）》  
+《自动驾驶OS开发训练营：初阶（第三期）》  
 * 第一关: Rust 编程语言精讲
 * 第二关: Rust For Linux 设备驱动开发
 
-![image](./profile/stage_2_time_list.png)
+![image](https://github.com/cicvedu/.github/assets/145750572/ca6644cc-2b8c-49dd-97d7-f45b95a5a097)
 
-上课时间：2023.10.23-11.19 共12次课，每周一三五晚上8点开始，具体见课表
+上课时间：2024.3.11-4.10 共12次课，每周一三五晚上8点开始，具体见课表
 
 #### 参加培训报名
 参加培训课程，请用手机号登录报名：  
-<https://cicvedu.com/course/111>
+<https://opencamp.cn/cicvedu/camp/20240310/stage/0>
 
 ### 编程作业领取入口
 #### 第一关
 * Rustlings（共100道编程练习题）  
 点击下面的链接，登陆 github，并按提示领取作业  
-<https://classroom.github.com/a/ItsGppv9>
+<https://classroom.github.com/a/cLJhOk1L>
 
 * Rustlings 排行榜  
-<https://cicvedu.github.io/rustlings-semester-2/>
+<https://cicvedu.github.io/rust-rustlings-semester-3-ranking/>
 
+### 答疑与学习记录链接
+<https://docs.qq.com/sheet/DVVpPeUl4bWVrUENZ?tab=y7dkn6>
