@@ -15,7 +15,6 @@
 课程培训：2/26~4/21（共计8周）
 
 结营时间：4/26
-
 ```
 
 ### 二、训练营申请表
@@ -27,9 +26,9 @@
 
 ### 三、训练营课程表
 《自动驾驶OS开发训练营：中阶（第一期）》  
-* 第一阶段: ArceOS组件化设计与实现<https://docs.qq.com/pdf/DVXdqVmdDSWZEbU1R?>
-* 第二阶段: 项目一 ArceOS SysCall 系统调用与实现<https://cicvedu.com/course/115>
-           项目二 ArceOS驱动开发<https://cicvedu.com/course/116>
+* 第一阶段: ArceOS组件化设计与实现<https://docs.qq.com/pdf/DVXdqVmdDSWZEbU1R?>   
+* 第二阶段: 项目一 ArceOS SysCall 系统调用与实现<https://cicvedu.com/course/115>                
+           项目二 ArceOS驱动开发<https://cicvedu.com/course/116>  
 
 ![image](https://github.com/cicvedu/.github/assets/145750572/7bbb50b8-037a-4911-8c69-556d08089bec)
 
@@ -40,15 +39,15 @@
 <https://cicvedu.com/course/112>
 
 ### 四、编程作业领取入口
-#### 第一周  
+#### 第一周作业 
 点击下面的链接，登陆 github，并按提示领取作业  
 <https://github.com/hky1999/CICV_OS_CAMP_2024/blob/main/2024OS%E5%BC%80%E5%8F%91%E4%B8%AD%E9%98%B6%E8%AE%AD%E7%BB%83%E8%90%A5%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A.md>
 
-#### 第二周  
+#### 第二周作业
 <https://docs.qq.com/pdf/DVXdqVmdDSWZEbU1R?>
 
-#### 第三周  
-项目一 <https://docs.qq.com/pdf/DVUh4WWxJZ21kSHF4?>
+#### 第三周作业 
+项目一 <https://docs.qq.com/pdf/DVUh4WWxJZ21kSHF4?>   
 项目二 <https://github.com/elliott10/Starry_homework/discussions/1>
 
 
