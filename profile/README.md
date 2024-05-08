@@ -5,7 +5,7 @@
 ### 第1期已结营（2023.8.5 - 2023.10.8）
 https://github.com/cicvedu/1st-training-camp/blob/main/README.md
 ### 第2期已结营（2023.10.21 - 2023.12.30）
-https://github.com/cicvedu/.github/blob/main/profile/README.md
+https://github.com/cicvedu/2nd-training-camp/blob/main/README.md
 
 ### 第3期入营流程
 ```
