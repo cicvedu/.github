@@ -58,3 +58,5 @@ https://github.com/cicvedu/1st-training-camp/blob/main/README.md
 https://github.com/cicvedu/2nd-training-camp/blob/main/README.md
 ### 初阶第3期已结营（2024.3.10 - 2024.4.12）
 https://github.com/cicvedu/3rd-training-camp/blob/main/README.md
+### 中阶第1期已结营（2024.1.22 - 2024.4.26）
+https://github.com/cicvedu/mid--1st-training-camp/blob/main/README.md
